@@ -84,9 +84,11 @@ src/
 
 ## 📸 Screenshot
 
-> _Add a screenshot or GIF of your UI for better visual understanding._
+Login Page of dashboard
+![image](https://github.com/user-attachments/assets/4cd5cecd-8b45-422e-9689-71643697c16d)
+Dashboard Page
+![image](https://github.com/user-attachments/assets/2e104204-889e-46ae-9a1a-0f7e2d36333d)
 
----
 
 ## 🛡️ License
 
